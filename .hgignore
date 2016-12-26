@@ -1,0 +1,5 @@
+syntax: glob
+JSONTest1/obj
+JSONTest1/bin
+UnitTestParser/obj
+*.suo

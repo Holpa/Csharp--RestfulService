@@ -1,0 +1,18 @@
+C:\Users\sysmgr\Documents\Visual Studio 2013\Projects\JSONTest1\JSONTest1\bin\JSONTest1.dll.config
+C:\Users\sysmgr\Documents\Visual Studio 2013\Projects\JSONTest1\JSONTest1\bin\JSONTest1.dll
+C:\Users\sysmgr\Documents\Visual Studio 2013\Projects\JSONTest1\JSONTest1\bin\JSONTest1.pdb
+C:\Users\sysmgr\Documents\Visual Studio 2013\Projects\JSONTest1\JSONTest1\obj\Release\JSONTest1.csprojResolveAssemblyReference.cache
+C:\Users\sysmgr\Documents\Visual Studio 2013\Projects\JSONTest1\JSONTest1\obj\Release\JSONTest1.dll
+C:\Users\sysmgr\Documents\Visual Studio 2013\Projects\JSONTest1\JSONTest1\obj\Release\JSONTest1.pdb
+C:\Users\sysmgr\Documents\JSONTest1\JSONTest1\bin\JSONTest1.dll.config
+C:\Users\sysmgr\Documents\JSONTest1\JSONTest1\bin\JSONTest1.dll
+C:\Users\sysmgr\Documents\JSONTest1\JSONTest1\bin\JSONTest1.pdb
+C:\Users\sysmgr\Documents\JSONTest1\JSONTest1\obj\Release\JSONTest1.csprojResolveAssemblyReference.cache
+C:\Users\sysmgr\Documents\JSONTest1\JSONTest1\obj\Release\JSONTest1.dll
+C:\Users\sysmgr\Documents\JSONTest1\JSONTest1\obj\Release\JSONTest1.pdb
+C:\Users\sysmgr\Desktop\rfidServiceOCT24\JSONTest1\JSONTest1\bin\JSONTest1.dll.config
+C:\Users\sysmgr\Desktop\rfidServiceOCT24\JSONTest1\JSONTest1\bin\JSONTest1.dll
+C:\Users\sysmgr\Desktop\rfidServiceOCT24\JSONTest1\JSONTest1\bin\JSONTest1.pdb
+C:\Users\sysmgr\Desktop\rfidServiceOCT24\JSONTest1\JSONTest1\obj\Release\JSONTest1.csprojResolveAssemblyReference.cache
+C:\Users\sysmgr\Desktop\rfidServiceOCT24\JSONTest1\JSONTest1\obj\Release\JSONTest1.dll
+C:\Users\sysmgr\Desktop\rfidServiceOCT24\JSONTest1\JSONTest1\obj\Release\JSONTest1.pdb

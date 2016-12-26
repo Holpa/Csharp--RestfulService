@@ -1,0 +1,9 @@
+c:\users\sysmgr\documents\visual studio 2013\Projects\UnitTestParser\UnitTestParser\bin\Debug\UnitTestParser.dll
+c:\users\sysmgr\documents\visual studio 2013\Projects\UnitTestParser\UnitTestParser\bin\Debug\UnitTestParser.pdb
+c:\users\sysmgr\documents\visual studio 2013\Projects\UnitTestParser\UnitTestParser\obj\Debug\UnitTestParser.dll
+c:\users\sysmgr\documents\visual studio 2013\Projects\UnitTestParser\UnitTestParser\obj\Debug\UnitTestParser.pdb
+C:\Users\sysmgr\Desktop\rfidServiceOCT24\JSONTest1\UnitTestParser\obj\Debug\UnitTestParser.csprojResolveAssemblyReference.cache
+C:\Users\sysmgr\Desktop\rfidServiceOCT24\JSONTest1\UnitTestParser\bin\Debug\UnitTestParser.dll
+C:\Users\sysmgr\Desktop\rfidServiceOCT24\JSONTest1\UnitTestParser\bin\Debug\UnitTestParser.pdb
+C:\Users\sysmgr\Desktop\rfidServiceOCT24\JSONTest1\UnitTestParser\obj\Debug\UnitTestParser.dll
+C:\Users\sysmgr\Desktop\rfidServiceOCT24\JSONTest1\UnitTestParser\obj\Debug\UnitTestParser.pdb
